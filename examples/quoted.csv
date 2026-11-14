@@ -1,0 +1,5 @@
+id,note,score
+1,"semi;colon inside",90
+2,"tab	inside",85
+3,"line one
+line two; here",88
